@@ -5,7 +5,7 @@ Right now, I'm competing on [Upwork](https://www.upwork.com/freelancers/~0132f23
   
 Primarily, I work with the React, Next.js, and Tailwind stack.  
   
-Right now, I'm exploring the world of WebGL and web animations, especially Three.js and GLSL.  
+Right now, I'm exploring the world of WebGL and web animations, especially Three.js and GLSL. [Some Projects](https://www.youtube.com/@HasanMal1k)
 
 I love to learn and am always looking for new opportunities to grow and collaborate with awesome people in the coding world and IRL. Thanks for checking out my [GitRepo](https://github.com/HasanMal1k)! Feel free to mail me or ping me on [LinkedIn](https://www.linkedin.com/in/hasan-mal1k/).  
 
