@@ -5,7 +5,7 @@ Right now, I'm exploring the world of WebGL and web animations, especially Three
 
 I love to learn and am always looking for new opportunities to grow and collaborate with awesome people in the coding world and IRL. Thanks for checking out my GitRepo! Feel free to mail me or ping me on LinkedIn.
 
-If you need guidance on the web dev side of coding, I'm here to share. Let's make this better together!
+If you need guidance on the web dev side of coding, I'm here to share. Let's make this better together 🌟✨
 <!--
 **HasanMal1k/HasanMal1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
