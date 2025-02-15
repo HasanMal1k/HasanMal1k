@@ -1,4 +1,4 @@
-## Welcome 🎊
+## Hello Stranger 🧙‍♂️
 I'm Hasan Malik, a Pakistan-based developer who sometimes shuts myself off just to perfect the color palette on my websites.  
 Right now I'm working on [Upwork](https://www.upwork.com/freelancers/~0132f23066f33637cb).  
 Primarily, I work with the React, Next.js, and Tailwind stack.  
