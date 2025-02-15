@@ -1,7 +1,7 @@
 ## Welcome 🎊
-I'm Hasan Malik, a Pakistan-based developer who sometimes shuts myself off just to perfect the color palette on my websites. 
-Primarily, I work with the React, Next.js, and Tailwind stack. 
-Right now, I'm exploring the world of WebGL and web animations, especially Three.js and GLSL.
+I'm Hasan Malik, a Pakistan-based developer who sometimes shuts myself off just to perfect the color palette on my websites.  
+Primarily, I work with the React, Next.js, and Tailwind stack.  
+Right now, I'm exploring the world of WebGL and web animations, especially Three.js and GLSL.  
 
 I love to learn and am always looking for new opportunities to grow and collaborate with awesome people in the coding world and IRL. Thanks for checking out my GitRepo! Feel free to mail me or ping me on LinkedIn.
 
