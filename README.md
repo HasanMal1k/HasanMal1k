@@ -1,5 +1,4 @@
-<img src="https://github.com/user-attachments/assets/3810607d-5d9b-45e6-8050-014bbb0a85a6">
-
+<img src="https://github.com/user-attachments/assets/1149e093-d955-4d92-9e1c-97cce6746efd">
 
 ## Dio stopped time… so take a moment to explore my projects.
 
