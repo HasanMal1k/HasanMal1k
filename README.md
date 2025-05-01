@@ -12,6 +12,7 @@ I love to learn and am always looking for new opportunities to grow and collabor
 
 If you need guidance on the web dev side of coding, I'm here to share. Let's make this better together 🌟✨
 
+![Persona3ReloadMakotoYukiGIF](https://github.com/user-attachments/assets/0f33f067-705f-4719-bd6e-c1324029c10c)
 
 <!--
 I'm Hasan Malik, a Pakistan-based developer who sometimes shuts myself off just to perfect the color palette on my websites.  
