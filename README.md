@@ -14,7 +14,8 @@ I love to learn and am always looking for new opportunities to grow and collabor
 If you need guidance on the web dev side of coding, I'm here to share. Let's make this better together 🌟✨
 
 <div align="center">
-  
+  ![KiryuYakuzaGIF](https://github.com/user-attachments/assets/5c9ccc58-7c54-4369-907b-f79a681b47ae)
+
   <img src="https://github.com/user-attachments/assets/0f33f067-705f-4719-bd6e-c1324029c10c" width="300" alt="Makoto Yuki Persona 3">
 </div>
 
