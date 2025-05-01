@@ -1,7 +1,6 @@
 ![DioZaWarudoGIF](https://github.com/user-attachments/assets/ae70db68-9e88-4553-ad94-1288afa60b78)
 
-## Dio stopped time, now you can see my projects
-
+## Dio stopped time… so take a moment to explore my projects.
 
 <!--
 I'm Hasan Malik, a Pakistan-based developer who sometimes shuts myself off just to perfect the color palette on my websites.  
