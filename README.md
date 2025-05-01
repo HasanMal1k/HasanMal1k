@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/7af08b9b-6c5d-4fbc-b7e0-0d0e786079e5">
 
 
-Dio stopped time… so take a moment to explore my projects.
+## Dio stopped time… so take a moment to explore my projects.
 
 I'm Hasan Malik, a Pakistan-based developer who sometimes shuts myself off just to perfect the color palette on my websites.  
   
