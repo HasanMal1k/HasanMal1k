@@ -1,4 +1,4 @@
-![Za Wardo](https://github.com/user-attachments/assets/9e94baf7-01f2-47dc-9ade-831b61918e65](https://www.icegif.com/jojos-bizarre-adventure-8/))
+![DioZaWarudoGIF](https://github.com/user-attachments/assets/ae70db68-9e88-4553-ad94-1288afa60b78)
 
 
 <!--
