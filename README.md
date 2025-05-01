@@ -13,9 +13,10 @@ I love to learn and am always looking for new opportunities to grow and collabor
 
 If you need guidance on the web dev side of coding, I'm here to share. Let's make this better together 🌟✨
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0f33f067-705f-4719-bd6e-c1324029c10c" width="400" alt="Makoto Yuki from Persona 3">
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ae70db68-9e88-4553-ad94-1288afa60b78" width="300" alt="Dio stops time" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/0f33f067-705f-4719-bd6e-c1324029c10c" width="300" alt="Makoto Yuki Persona 3">
+</div>
 
 <!--
 I'm Hasan Malik, a Pakistan-based developer who sometimes shuts myself off just to perfect the color palette on my websites.  
