@@ -2,6 +2,17 @@
 
 ## Dio stopped time… so take a moment to explore my projects.
 
+I'm Hasan Malik, a Pakistan-based developer who sometimes shuts myself off just to perfect the color palette on my websites.  
+  
+Primarily, I work with the React, Next.js, and Tailwind stack.  
+  
+Right now, I'm exploring the world of WebGL and web animations, especially Three.js and GLSL. [Some Projects](https://www.youtube.com/@HasanMal1k)
+
+I love to learn and am always looking for new opportunities to grow and collaborate with awesome people in the coding world and IRL. Thanks for checking out my [GitRepo](https://github.com/HasanMal1k)! Feel free to mail me or ping me on [LinkedIn](https://www.linkedin.com/in/hasan-mal1k/).  
+
+If you need guidance on the web dev side of coding, I'm here to share. Let's make this better together 🌟✨
+
+
 <!--
 I'm Hasan Malik, a Pakistan-based developer who sometimes shuts myself off just to perfect the color palette on my websites.  
   
