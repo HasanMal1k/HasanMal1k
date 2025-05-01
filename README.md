@@ -1,4 +1,6 @@
-![DioZaWarudoGIF](https://github.com/user-attachments/assets/ae70db68-9e88-4553-ad94-1288afa60b78)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ae70db68-9e88-4553-ad94-1288afa60b78" width="400" alt="Dio stops time">
+</p>
 
 ## Dio stopped time… so take a moment to explore my projects.
 
