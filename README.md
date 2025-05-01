@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ae70db68-9e88-4553-ad94-1288afa60b78" width="400" alt="Dio stops time">
-</p>
+![DioZaWarudoGIF](https://github.com/user-attachments/assets/7af08b9b-6c5d-4fbc-b7e0-0d0e786079e5)
 
-## Dio stopped time… so take a moment to explore my projects.
+
+Dio stopped time… so take a moment to explore my projects.
 
 I'm Hasan Malik, a Pakistan-based developer who sometimes shuts myself off just to perfect the color palette on my websites.  
   
@@ -14,7 +13,9 @@ I love to learn and am always looking for new opportunities to grow and collabor
 
 If you need guidance on the web dev side of coding, I'm here to share. Let's make this better together 🌟✨
 
-![Persona3ReloadMakotoYukiGIF](https://github.com/user-attachments/assets/0f33f067-705f-4719-bd6e-c1324029c10c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0f33f067-705f-4719-bd6e-c1324029c10c" width="400" alt="Makoto Yuki from Persona 3">
+</p>
 
 <!--
 I'm Hasan Malik, a Pakistan-based developer who sometimes shuts myself off just to perfect the color palette on my websites.  
