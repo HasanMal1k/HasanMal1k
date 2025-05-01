@@ -1,4 +1,4 @@
-![DioZaWarudoGIF](https://github.com/user-attachments/assets/7af08b9b-6c5d-4fbc-b7e0-0d0e786079e5)
+<img src="https://github.com/user-attachments/assets/7af08b9b-6c5d-4fbc-b7e0-0d0e786079e5" width="full" alt="Za Warudo">
 
 
 Dio stopped time… so take a moment to explore my projects.
@@ -14,7 +14,7 @@ I love to learn and am always looking for new opportunities to grow and collabor
 If you need guidance on the web dev side of coding, I'm here to share. Let's make this better together 🌟✨
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ae70db68-9e88-4553-ad94-1288afa60b78" width="300" alt="Dio stops time" style="margin-right: 10px;">
+  
   <img src="https://github.com/user-attachments/assets/0f33f067-705f-4719-bd6e-c1324029c10c" width="300" alt="Makoto Yuki Persona 3">
 </div>
 
