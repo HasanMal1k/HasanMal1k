@@ -1,4 +1,7 @@
-## Hello Stranger 🧙‍♂️
+![MuaKissGIF](https://github.com/user-attachments/assets/9e94baf7-01f2-47dc-9ade-831b61918e65)
+
+
+<!--
 I'm Hasan Malik, a Pakistan-based developer who sometimes shuts myself off just to perfect the color palette on my websites.  
   
 Primarily, I work with the React, Next.js, and Tailwind stack.  
