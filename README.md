@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/7af08b9b-6c5d-4fbc-b7e0-0d0e786079e5" style="width: 100%;" alt="Za Warudo">
+<img src="https://github.com/user-attachments/assets/7af08b9b-6c5d-4fbc-b7e0-0d0e786079e5" width="1000" alt="Za Warudo">
 
 
 Dio stopped time… so take a moment to explore my projects.
