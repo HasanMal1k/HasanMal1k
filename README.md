@@ -1,6 +1,6 @@
 
-<img src="[https://imgur.com/gallery/berserk-manga-panels-Aa0yk0c](https://i.imgur.com/MUvViyg.jpeg)" />
 
+![wp9201074](https://github.com/user-attachments/assets/007ed29f-91b9-47e3-bf6c-239341db8704)
 <!--
 
 ## Take a moment to explore my projects.
