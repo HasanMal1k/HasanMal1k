@@ -1,5 +1,5 @@
 
-<img src="https://imgur.com/gallery/berserk-manga-panels-Aa0yk0c" />
+<img src="[https://imgur.com/gallery/berserk-manga-panels-Aa0yk0c](https://i.imgur.com/MUvViyg.jpeg)" />
 
 <!--
 
