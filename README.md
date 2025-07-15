@@ -1,4 +1,8 @@
 
+<img src="https://imgur.com/gallery/berserk-manga-panels-Aa0yk0c" />
+
+<!--
+
 ## Take a moment to explore my projects.
 
 I'm Hasan Malik, a Pakistan-based developer who sometimes shuts himself off just to perfect the color palette on my websites.  
