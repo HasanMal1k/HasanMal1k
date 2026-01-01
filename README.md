@@ -6,6 +6,8 @@
 ## Take a moment to explore my projects.
 
 I'm Hasan Malik, a Pakistan-based developer who sometimes shuts himself off just to perfect the color palette on my websites.  
+
+
   
 Primarily, I work with the React, Next.js, and Tailwind stack.  
   
