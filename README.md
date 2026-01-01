@@ -20,6 +20,7 @@ If you need guidance on the web dev side of coding, I'm here to share. Let's mak
   <img src="https://github.com/user-attachments/assets/0f33f067-705f-4719-bd6e-c1324029c10c" width="300" alt="Makoto Yuki Persona 3">
 
 
+
 <!--
 I'm Hasan Malik, a Pakistan-based developer who sometimes shuts myself off just to perfect the color palette on my websites.  
   
